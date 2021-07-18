@@ -128,7 +128,7 @@ h2::before {
     content: '';
     position: absolute;
     width: 6em;
-    background: #00bfff;
+    background: #184352;
     height: .4em;
     bottom: 0;
     z-index: -1;
